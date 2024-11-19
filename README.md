@@ -1,0 +1,1 @@
+Open-source CAD designs, figures, and Arduino codes for the custom-designed Instrument Module (IM), used in the JMR paper "Teleoperation of Continuum Instruments: Investigation of Linear vs. Angular Commands Through Task-Priority Analysis", are provided.
